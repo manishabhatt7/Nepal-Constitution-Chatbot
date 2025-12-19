@@ -1,6 +1,6 @@
 #  Nepali Constitution Chatbot 🇳🇵
 
-An AI-powered chatbot that answers your questions based on the **Constitution of Nepal 2072** using OpenAI's GPT-4o and semantic search (FAISS + LangChain).
+AI-powered chatbot that answers your questions based on the **Constitution of Nepal 2072** using OpenAI's GPT-4o and semantic search (FAISS + LangChain).
 
 ---
 
@@ -45,6 +45,7 @@ python chatbot.py
 
 ##  Demo
 ![Chatbot Screenshot](![chatbot](https://github.com/user-attachments/assets/d32317e0-618f-45f0-9a2d-538aefab0de8))
+
 
 
                                                                                                                                                                                                                        
